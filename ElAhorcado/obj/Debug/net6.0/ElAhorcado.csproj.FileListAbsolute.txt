@@ -1,0 +1,15 @@
+C:\Users\EMILIA\Desktop\PROGRAMAS\ElAhorcado\bin\Debug\net6.0\ElAhorcado.exe
+C:\Users\EMILIA\Desktop\PROGRAMAS\ElAhorcado\bin\Debug\net6.0\ElAhorcado.deps.json
+C:\Users\EMILIA\Desktop\PROGRAMAS\ElAhorcado\bin\Debug\net6.0\ElAhorcado.runtimeconfig.json
+C:\Users\EMILIA\Desktop\PROGRAMAS\ElAhorcado\bin\Debug\net6.0\ElAhorcado.dll
+C:\Users\EMILIA\Desktop\PROGRAMAS\ElAhorcado\bin\Debug\net6.0\ElAhorcado.pdb
+C:\Users\EMILIA\Desktop\PROGRAMAS\ElAhorcado\obj\Debug\net6.0\ElAhorcado.csproj.AssemblyReference.cache
+C:\Users\EMILIA\Desktop\PROGRAMAS\ElAhorcado\obj\Debug\net6.0\ElAhorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMILIA\Desktop\PROGRAMAS\ElAhorcado\obj\Debug\net6.0\ElAhorcado.AssemblyInfoInputs.cache
+C:\Users\EMILIA\Desktop\PROGRAMAS\ElAhorcado\obj\Debug\net6.0\ElAhorcado.AssemblyInfo.cs
+C:\Users\EMILIA\Desktop\PROGRAMAS\ElAhorcado\obj\Debug\net6.0\ElAhorcado.csproj.CoreCompileInputs.cache
+C:\Users\EMILIA\Desktop\PROGRAMAS\ElAhorcado\obj\Debug\net6.0\ElAhorcado.dll
+C:\Users\EMILIA\Desktop\PROGRAMAS\ElAhorcado\obj\Debug\net6.0\refint\ElAhorcado.dll
+C:\Users\EMILIA\Desktop\PROGRAMAS\ElAhorcado\obj\Debug\net6.0\ElAhorcado.pdb
+C:\Users\EMILIA\Desktop\PROGRAMAS\ElAhorcado\obj\Debug\net6.0\ElAhorcado.genruntimeconfig.cache
+C:\Users\EMILIA\Desktop\PROGRAMAS\ElAhorcado\obj\Debug\net6.0\ref\ElAhorcado.dll
